@@ -1,0 +1,6 @@
+{
+  "name": "legend-of-clawd",
+  "version": "0.2.0",
+  "description": "Legend of Clawd: a little Zelda-style adventure you play above the prompt",
+  "author": { "name": "Yunus Acar" }
+}

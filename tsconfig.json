@@ -1,0 +1,5 @@
+{
+  "extends": "./.claude-plugin/types/tsconfig.json",
+  "compilerOptions": { "allowJs": true, "allowImportingTsExtensions": true, "noUncheckedIndexedAccess": false },
+  "include": [".claude-plugin/types", "hooks", "tests"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "legend-of-clawd",
+  "owner": { "name": "Yunus Acar" },
+  "metadata": { "description": "Legend of Clawd, a game mod for Claude Code" },
+  "plugins": [{ "name": "legend-of-clawd", "source": "./" }]
+}
